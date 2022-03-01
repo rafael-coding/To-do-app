@@ -1,4 +1,4 @@
-# time-track
+# To do list app
 
 ## Project setup
 ```

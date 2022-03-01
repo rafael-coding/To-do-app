@@ -1,5 +1,5 @@
 <template>
-    <div class="is-flex is-align-items-centeris-justify-content-space-between">
+    <div class="is-flex is-align-items-center is-justify-content-space-between">
         <CronometroToDo :seconds="seconds"/>
         <button @click="startCount()" class="button" :disabled="timerTrack">
             <span class="icon">
